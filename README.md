@@ -8,9 +8,9 @@
 
 [AI @ Finance](https://github.com/wxshrxch/Essential-of-Fintech/blob/main/AI__Finance.pdf)
 
-[Open API for Open Banking] (https://github.com/wxshrxch/Essential-of-Fintech/blob/main/Open_API_for_Open_Banking.pdf)
+[Open API for Open Banking](https://github.com/wxshrxch/Essential-of-Fintech/blob/main/Open_API_for_Open_Banking.pdf)
 
-[Blockchain & Cryptocurrency] (https://github.com/wxshrxch/Essential-of-Fintech/blob/main/Blockchain__Cryptocurrency.pdf)
+[Blockchain & Cryptocurrency](https://github.com/wxshrxch/Essential-of-Fintech/blob/main/Blockchain__Cryptocurrency.pdf)
 
 [Payment](https://github.com/wxshrxch/Essential-of-Fintech/blob/main/Payment.pdf)
 
